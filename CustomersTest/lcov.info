@@ -1,0 +1,365 @@
+SF:C:\Estudos\DotNet\MoqInTestsWithMoq\CustomersApi\Program.cs
+FN:6,System.Void Program::<Main>$(System.String[])
+FNDA:0,System.Void Program::<Main>$(System.String[])
+DA:7,0
+DA:11,0
+DA:13,0
+DA:14,0
+DA:17,0
+DA:18,0
+DA:20,0
+DA:22,0
+DA:23,0
+DA:25,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:34,0
+DA:36,0
+DA:38,0
+DA:40,0
+BRDA:28,191,0,0
+BRDA:28,191,1,0
+LF:19
+LH:0
+BRF:2
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:C:\Estudos\DotNet\MoqInTestsWithMoq\CustomersApi\Services\CustomerService.cs
+FN:14,System.Void CustomersApi.Services.CustomerService::.ctor(CustomersApi.Repositories.ICustomerRepository,AutoMapper.IMapper)
+FNDA:3,System.Void CustomersApi.Services.CustomerService::.ctor(CustomersApi.Repositories.ICustomerRepository,AutoMapper.IMapper)
+DA:15,3
+DA:16,3
+DA:17,3
+DA:18,3
+DA:19,3
+FN:51,System.Void CustomersApi.Services.CustomerService/<Delete>d__7::MoveNext()
+FNDA:0,System.Void CustomersApi.Services.CustomerService/<Delete>d__7::MoveNext()
+DA:52,0
+DA:53,0
+DA:54,0
+FN:21,System.Void CustomersApi.Services.CustomerService/<GetAll>d__3::MoveNext()
+FNDA:1,System.Void CustomersApi.Services.CustomerService/<GetAll>d__3::MoveNext()
+DA:22,1
+DA:23,1
+DA:25,1
+DA:26,1
+FN:28,System.Void CustomersApi.Services.CustomerService/<GetById>d__4::MoveNext()
+FNDA:1,System.Void CustomersApi.Services.CustomerService/<GetById>d__4::MoveNext()
+DA:29,1
+DA:30,1
+DA:32,1
+DA:33,1
+FN:35,System.Void CustomersApi.Services.CustomerService/<Insert>d__5::MoveNext()
+FNDA:1,System.Void CustomersApi.Services.CustomerService/<Insert>d__5::MoveNext()
+DA:36,1
+DA:37,1
+DA:39,1
+DA:41,1
+DA:42,1
+FN:44,System.Void CustomersApi.Services.CustomerService/<Update>d__6::MoveNext()
+FNDA:0,System.Void CustomersApi.Services.CustomerService/<Update>d__6::MoveNext()
+DA:45,0
+DA:46,0
+DA:48,0
+DA:49,0
+LF:25
+LH:18
+BRF:0
+BRH:0
+FNF:6
+FNH:4
+end_of_record
+SF:C:\Estudos\DotNet\MoqInTestsWithMoq\CustomersApi\Repositories\CustomerRepository.cs
+FN:9,System.Void CustomersApi.Repositories.CustomerRepository::.ctor(CustomersApi.Data.ApplicationDbContext)
+FNDA:0,System.Void CustomersApi.Repositories.CustomerRepository::.ctor(CustomersApi.Data.ApplicationDbContext)
+DA:10,0
+DA:11,0
+DA:12,0
+DA:13,0
+FN:36,System.Void CustomersApi.Repositories.CustomerRepository/<Delete>d__6::MoveNext()
+FNDA:0,System.Void CustomersApi.Repositories.CustomerRepository/<Delete>d__6::MoveNext()
+DA:37,0
+DA:38,0
+DA:40,0
+DA:41,0
+DA:43,0
+DA:44,0
+BRDA:40,168,0,0
+BRDA:40,168,1,0
+FN:15,System.Void CustomersApi.Repositories.CustomerRepository/<GetAll>d__2::MoveNext()
+FNDA:0,System.Void CustomersApi.Repositories.CustomerRepository/<GetAll>d__2::MoveNext()
+DA:16,0
+FN:18,System.Void CustomersApi.Repositories.CustomerRepository/<GetById>d__3::MoveNext()
+FNDA:0,System.Void CustomersApi.Repositories.CustomerRepository/<GetById>d__3::MoveNext()
+DA:19,0
+FN:21,System.Void CustomersApi.Repositories.CustomerRepository/<Insert>d__4::MoveNext()
+FNDA:0,System.Void CustomersApi.Repositories.CustomerRepository/<Insert>d__4::MoveNext()
+DA:22,0
+DA:23,0
+DA:24,0
+DA:26,0
+DA:27,0
+FN:29,System.Void CustomersApi.Repositories.CustomerRepository/<Update>d__5::MoveNext()
+FNDA:0,System.Void CustomersApi.Repositories.CustomerRepository/<Update>d__5::MoveNext()
+DA:30,0
+DA:31,0
+DA:33,0
+DA:34,0
+LF:21
+LH:0
+BRF:2
+BRH:0
+FNF:6
+FNH:0
+end_of_record
+SF:C:\Estudos\DotNet\MoqInTestsWithMoq\CustomersApi\Migrations\20220408202708_InitialCreate.cs
+FN:10,System.Void CustomersApi.Migrations.InitialCreate::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+FNDA:0,System.Void CustomersApi.Migrations.InitialCreate::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+DA:11,0
+DA:12,0
+DA:13,0
+DA:14,0
+DA:15,0
+DA:16,0
+DA:17,0
+DA:18,0
+DA:19,0
+DA:20,0
+DA:21,0
+DA:22,0
+DA:23,0
+FN:25,System.Void CustomersApi.Migrations.InitialCreate::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+FNDA:0,System.Void CustomersApi.Migrations.InitialCreate::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+DA:26,0
+DA:27,0
+DA:28,0
+DA:29,0
+LF:17
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:C:\Estudos\DotNet\MoqInTestsWithMoq\CustomersApi\Migrations\20220408202708_InitialCreate.Designer.cs
+FN:17,System.Void CustomersApi.Migrations.InitialCreate::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+FNDA:0,System.Void CustomersApi.Migrations.InitialCreate::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+DA:18,0
+DA:20,0
+DA:22,0
+DA:23,0
+DA:24,0
+DA:25,0
+DA:26,0
+DA:27,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:37,0
+LF:17
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:C:\Estudos\DotNet\MoqInTestsWithMoq\CustomersApi\Migrations\ApplicationDbContextModelSnapshot.cs
+FN:15,System.Void CustomersApi.Migrations.ApplicationDbContextModelSnapshot::BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+FNDA:0,System.Void CustomersApi.Migrations.ApplicationDbContextModelSnapshot::BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+DA:16,0
+DA:18,0
+DA:20,0
+DA:21,0
+DA:22,0
+DA:23,0
+DA:24,0
+DA:25,0
+DA:26,0
+DA:27,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:35,0
+LF:17
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:C:\Estudos\DotNet\MoqInTestsWithMoq\CustomersApi\Mapping\AutoMapping.cs
+FN:9,System.Void CustomersApi.Mapping.AutoMapping::.ctor()
+FNDA:3,System.Void CustomersApi.Mapping.AutoMapping::.ctor()
+DA:10,3
+DA:11,3
+DA:12,3
+DA:13,3
+DA:14,3
+DA:16,3
+DA:17,3
+DA:18,3
+LF:8
+LH:8
+BRF:0
+BRH:0
+FNF:1
+FNH:1
+end_of_record
+SF:C:\Estudos\DotNet\MoqInTestsWithMoq\CustomersApi\DTO\Responses\CreateCustomerResponse.cs
+FN:4,System.Guid CustomersApi.DTO.Responses.CreateCustomerResponse::get_Id()
+FNDA:2,System.Guid CustomersApi.DTO.Responses.CreateCustomerResponse::get_Id()
+DA:5,2
+FN:5,System.String CustomersApi.DTO.Responses.CreateCustomerResponse::get_Name()
+FNDA:1,System.String CustomersApi.DTO.Responses.CreateCustomerResponse::get_Name()
+DA:6,1
+LF:2
+LH:2
+BRF:0
+BRH:0
+FNF:2
+FNH:2
+end_of_record
+SF:C:\Estudos\DotNet\MoqInTestsWithMoq\CustomersApi\DTO\Responses\GetAllCustomersResponse.cs
+FN:4,System.Guid CustomersApi.DTO.Responses.GetAllCustomersResponse::get_Id()
+FNDA:2,System.Guid CustomersApi.DTO.Responses.GetAllCustomersResponse::get_Id()
+DA:5,2
+FN:5,System.String CustomersApi.DTO.Responses.GetAllCustomersResponse::get_Name()
+FNDA:2,System.String CustomersApi.DTO.Responses.GetAllCustomersResponse::get_Name()
+DA:6,2
+LF:2
+LH:2
+BRF:0
+BRH:0
+FNF:2
+FNH:2
+end_of_record
+SF:C:\Estudos\DotNet\MoqInTestsWithMoq\CustomersApi\DTO\Responses\GetCustomerByIdResponse.cs
+FN:4,System.Guid CustomersApi.DTO.Responses.GetCustomerByIdResponse::get_Id()
+FNDA:2,System.Guid CustomersApi.DTO.Responses.GetCustomerByIdResponse::get_Id()
+DA:5,2
+FN:5,System.String CustomersApi.DTO.Responses.GetCustomerByIdResponse::get_Name()
+FNDA:2,System.String CustomersApi.DTO.Responses.GetCustomerByIdResponse::get_Name()
+DA:6,2
+LF:2
+LH:2
+BRF:0
+BRH:0
+FNF:2
+FNH:2
+end_of_record
+SF:C:\Estudos\DotNet\MoqInTestsWithMoq\CustomersApi\DTO\Requests\CreateCustomerRequest.cs
+FN:4,System.String CustomersApi.DTO.Requests.CreateCustomerRequest::get_Name()
+FNDA:2,System.String CustomersApi.DTO.Requests.CreateCustomerRequest::get_Name()
+DA:5,2
+LF:1
+LH:1
+BRF:0
+BRH:0
+FNF:1
+FNH:1
+end_of_record
+SF:C:\Estudos\DotNet\MoqInTestsWithMoq\CustomersApi\DTO\Requests\UpdateCustomerRequest.cs
+FN:4,System.Guid CustomersApi.DTO.Requests.UpdateCustomerRequest::get_Id()
+FNDA:0,System.Guid CustomersApi.DTO.Requests.UpdateCustomerRequest::get_Id()
+DA:5,0
+FN:5,System.String CustomersApi.DTO.Requests.UpdateCustomerRequest::get_Name()
+FNDA:0,System.String CustomersApi.DTO.Requests.UpdateCustomerRequest::get_Name()
+DA:6,0
+LF:2
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:C:\Estudos\DotNet\MoqInTestsWithMoq\CustomersApi\Domain\Customer.cs
+FN:4,System.Guid CustomersApi.Domain.Customer::get_Id()
+FNDA:9,System.Guid CustomersApi.Domain.Customer::get_Id()
+DA:5,9
+FN:5,System.String CustomersApi.Domain.Customer::get_Name()
+FNDA:9,System.String CustomersApi.Domain.Customer::get_Name()
+DA:6,9
+LF:2
+LH:2
+BRF:0
+BRH:0
+FNF:2
+FNH:2
+end_of_record
+SF:C:\Estudos\DotNet\MoqInTestsWithMoq\CustomersApi\Data\ApplicationDbContext.cs
+FN:9,Microsoft.EntityFrameworkCore.DbSet`1<CustomersApi.Domain.Customer> CustomersApi.Data.ApplicationDbContext::get_Customers()
+FNDA:0,Microsoft.EntityFrameworkCore.DbSet`1<CustomersApi.Domain.Customer> CustomersApi.Data.ApplicationDbContext::get_Customers()
+DA:10,0
+FN:12,System.Void CustomersApi.Data.ApplicationDbContext::OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)
+FNDA:0,System.Void CustomersApi.Data.ApplicationDbContext::OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)
+DA:13,0
+DA:14,0
+DA:15,0
+DA:16,0
+FN:7,System.Void CustomersApi.Data.ApplicationDbContext::.ctor(Microsoft.EntityFrameworkCore.DbContextOptions`1<CustomersApi.Data.ApplicationDbContext>)
+FNDA:0,System.Void CustomersApi.Data.ApplicationDbContext::.ctor(Microsoft.EntityFrameworkCore.DbContextOptions`1<CustomersApi.Data.ApplicationDbContext>)
+DA:8,0
+LF:6
+LH:0
+BRF:0
+BRH:0
+FNF:3
+FNH:0
+end_of_record
+SF:C:\Estudos\DotNet\MoqInTestsWithMoq\CustomersApi\Controllers\CustomerController.cs
+FN:12,System.Void CustomersApi.Controllers.CustomerController::.ctor(CustomersApi.Services.ICustomerService)
+FNDA:0,System.Void CustomersApi.Controllers.CustomerController::.ctor(CustomersApi.Services.ICustomerService)
+DA:13,0
+DA:14,0
+DA:15,0
+DA:16,0
+FN:36,System.Void CustomersApi.Controllers.CustomerController/<CreateCustomer>d__4::MoveNext()
+FNDA:0,System.Void CustomersApi.Controllers.CustomerController/<CreateCustomer>d__4::MoveNext()
+DA:37,0
+DA:38,0
+DA:39,0
+DA:40,0
+FN:52,System.Void CustomersApi.Controllers.CustomerController/<DeleteCustomer>d__6::MoveNext()
+FNDA:0,System.Void CustomersApi.Controllers.CustomerController/<DeleteCustomer>d__6::MoveNext()
+DA:53,0
+DA:54,0
+DA:55,0
+DA:56,0
+FN:20,System.Void CustomersApi.Controllers.CustomerController/<GetCustomers>d__2::MoveNext()
+FNDA:0,System.Void CustomersApi.Controllers.CustomerController/<GetCustomers>d__2::MoveNext()
+DA:21,0
+DA:22,0
+DA:23,0
+DA:24,0
+FN:28,System.Void CustomersApi.Controllers.CustomerController/<GetCustomers>d__3::MoveNext()
+FNDA:0,System.Void CustomersApi.Controllers.CustomerController/<GetCustomers>d__3::MoveNext()
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+FN:44,System.Void CustomersApi.Controllers.CustomerController/<UpdateCustomer>d__5::MoveNext()
+FNDA:0,System.Void CustomersApi.Controllers.CustomerController/<UpdateCustomer>d__5::MoveNext()
+DA:45,0
+DA:46,0
+DA:47,0
+DA:48,0
+LF:24
+LH:0
+BRF:0
+BRH:0
+FNF:6
+FNH:0
+end_of_record
